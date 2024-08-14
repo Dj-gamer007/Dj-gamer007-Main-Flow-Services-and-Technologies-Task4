@@ -31,7 +31,7 @@ To run the script in this repository, you need to have Python installed on your 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Dj-gamer007/python-developer-internship.git
+   git clone https://github.com/yourusername/python-developer-internship.git
    cd python-developer-internship/Task4
    ```
 
