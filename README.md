@@ -18,7 +18,6 @@ The goal of this task was to design and implement a Basic calculator that allows
 
 - **Python 3.x**
 - **`calculator.py`**: The Python script for the Basic calculator.
-- **`requirements.txt`**: A list of dependencies required to run the script (if any).
 
 
 ## Getting Started
